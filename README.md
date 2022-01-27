@@ -1,2 +1,2 @@
 # de_zoomcamp
-everything regarding the cource
+everything regarding the course
